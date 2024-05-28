@@ -1,6 +1,6 @@
 #include <iostream>
 //#include <Windows.h> for Win (Sleep)
-#include <uNIstd.h> //for Mac (sleep 소문자로)
+#include <unistd.h> //for Mac (sleep 소문자로)
 #include <vector>
 #include <fstream>
 using namespace std;
