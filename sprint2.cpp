@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-int main(void) {
+int main() {
     int NI = 7, NO = 15, ni, no;
     vector <int> q;
     ni = 10;
